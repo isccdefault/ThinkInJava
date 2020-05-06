@@ -1,6 +1,7 @@
 //: typeinfo/SelectingMethods.java
 // Looking for particular methods in a dynamic proxy.
 import java.lang.reflect.*;
+
 import static net.mindview.util.Print.*;
 
 class MethodSelector implements InvocationHandler {

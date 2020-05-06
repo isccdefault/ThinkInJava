@@ -1,6 +1,7 @@
 //: operators/BitManipulation.java
 // Using the bitwise operators.
 import java.util.*;
+
 import static net.mindview.util.Print.*;
 
 public class BitManipulation {

@@ -1,8 +1,10 @@
 //: net/mindview/atunit/ClassNameFinder.java
 package net.mindview.atunit;
+import net.mindview.util.*;
+
 import java.io.*;
 import java.util.*;
-import net.mindview.util.*;
+
 import static net.mindview.util.Print.*;
 
 public class ClassNameFinder {

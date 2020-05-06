@@ -3,6 +3,7 @@
 // the XOM library from http://www.xom.nu }
 // {RunFirst: Person}
 import nu.xom.*;
+
 import java.util.*;
 
 public class People extends ArrayList<Person> {

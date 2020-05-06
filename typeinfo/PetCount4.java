@@ -1,6 +1,7 @@
 //: typeinfo/PetCount4.java
-import typeinfo.pets.*;
 import net.mindview.util.*;
+import typeinfo.pets.*;
+
 import static net.mindview.util.Print.*;
 
 public class PetCount4 {

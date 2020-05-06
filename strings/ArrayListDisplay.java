@@ -1,5 +1,6 @@
 //: strings/ArrayListDisplay.java
 import generics.coffee.*;
+
 import java.util.*;
 
 public class ArrayListDisplay {

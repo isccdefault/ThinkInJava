@@ -1,7 +1,8 @@
 //: swt/DisplayProperties.java
 import org.eclipse.swt.*;
-import org.eclipse.swt.widgets.*;
 import org.eclipse.swt.layout.*;
+import org.eclipse.swt.widgets.*;
+
 import java.io.*;
 
 public class DisplayProperties {

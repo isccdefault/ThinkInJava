@@ -1,6 +1,6 @@
 //: strings/ThreatAnalyzer.java
-import java.util.regex.*;
 import java.util.*;
+import java.util.regex.*;
 
 public class ThreatAnalyzer {
   static String threatData =

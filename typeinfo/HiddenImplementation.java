@@ -2,6 +2,7 @@
 // Sneaking around package access.
 import typeinfo.interfacea.*;
 import typeinfo.packageaccess.*;
+
 import java.lang.reflect.*;
 
 public class HiddenImplementation {

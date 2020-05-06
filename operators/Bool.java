@@ -1,6 +1,7 @@
 //: operators/Bool.java
 // Relational and logical operators.
 import java.util.*;
+
 import static net.mindview.util.Print.*;
 
 public class Bool {

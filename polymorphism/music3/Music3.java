@@ -2,6 +2,7 @@
 // An extensible program.
 package polymorphism.music3;
 import polymorphism.music.Note;
+
 import static net.mindview.util.Print.*;
 
 class Instrument {

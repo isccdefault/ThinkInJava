@@ -1,8 +1,8 @@
 //: net/mindview/util/TaskManager.java
 // Managing and executing a queue of tasks.
 package net.mindview.util;
-import java.util.concurrent.*;
 import java.util.*;
+import java.util.concurrent.*;
 
 public class TaskManager<R,C extends Callable<R>>
 extends ArrayList<TaskItem<R,C>> {

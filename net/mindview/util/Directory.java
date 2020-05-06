@@ -3,9 +3,9 @@
 // regular expression in either a local directory,
 // or by walking a directory tree.
 package net.mindview.util;
-import java.util.regex.*;
 import java.io.*;
 import java.util.*;
+import java.util.regex.*;
 
 public final class Directory {
   public static File[]

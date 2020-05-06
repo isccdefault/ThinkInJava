@@ -4,6 +4,7 @@
 // {Args: ShowMethods}
 import java.lang.reflect.*;
 import java.util.regex.*;
+
 import static net.mindview.util.Print.*;
 
 public class ShowMethods {
